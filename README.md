@@ -37,8 +37,4 @@ A **"Logout"** button was added to the **top-right corner** of the application's
 ![Vyorius Ground Station UI](./Screenshot.png)  
 *Modified QGroundControl interface with custom branding and logout button*
 
-> Replace `path-to-your-screenshot.png` with the actual relative path once the image is uploaded.
-
 ---
-
-## 🛠
