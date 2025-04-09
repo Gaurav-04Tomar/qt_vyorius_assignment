@@ -1,31 +1,44 @@
-# QGroundControl Ground Control Station
+# Vyorius Ground Station – Qt/QML C++ Task
 
-[![Releases](https://img.shields.io/github/release/mavlink/QGroundControl.svg)](https://github.com/mavlink/QGroundControl/releases)
-[![Travis Build Status](https://travis-ci.org/mavlink/qgroundcontrol.svg?branch=master)](https://travis-ci.org/mavlink/qgroundcontrol)
-[![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/crxcm4qayejuvh6c/branch/master?svg=true)](https://ci.appveyor.com/project/mavlink/qgroundcontrol)
+This repository contains my submission for the **Qt-QML C++ Assignment** provided by **Vyorius**. The task involved customizing the open-source QGroundControl application using **Qt 5.15.2**, **C++**, and **QML**.
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mavlink/qgroundcontrol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+---
 
+## ✅ Tasks Completed
 
-*QGroundControl* (QGC) is an intuitive and powerful ground control station (GCS) for UAVs.
+### 1. 🔄 Replaced Application Logo
+The original QGroundControl logo was replaced with the one provided by Vyorius.
 
-The primary goal of QGC is ease of use for both first time and professional users.
-It provides full flight control and mission planning for any MAVLink enabled drone, and vehicle setup for both PX4 and ArduPilot powered UAVs. Instructions for *using QGroundControl* are provided in the [User Manual](https://docs.qgroundcontrol.com/en/) (you may not need them because the UI is very intuitive!)
+### 2. 📝 Changed Build Name
+The application title in the top-left corner was changed from:
 
-All the code is open-source, so you can contribute and evolve it as you want.
-The [Developer Guide](https://dev.qgroundcontrol.com/en/) explains how to [build](https://dev.qgroundcontrol.com/en/getting_started/) and extend QGC.
+> **"QGroundControl daily"**  
+to  
+> **"Vyorius Ground Station"**
 
+### 3. 🔘 Added "Logout" Button
+A **"Logout"** button was added to the **top-right corner** of the application's title bar.
 
-Key Links:
-* [Website](http://qgroundcontrol.com) (qgroundcontrol.com)
-* [User Manual](https://docs.qgroundcontrol.com/en/)
-* [Developer Guide](https://dev.qgroundcontrol.com/en/)
-* [Discussion/Support](https://docs.qgroundcontrol.com/en/Support/Support.html)
-* [Contributing](https://dev.qgroundcontrol.com/en/contribute/)
-* [License](https://github.com/mavlink/qgroundcontrol/blob/master/COPYING.md)
-# qt-vyoris-assignment
-# qt-vyoris-assignment
-# qt-vyoris-assignment
-# vyorius-ground-station-assignment
-# vyorius-ground-station-assignment
-# qt_vyorius_assignment
+---
+
+## 🧰 Tech Stack
+
+- **Qt Creator 10.0.1**
+- **Qt 5.15.2 (MSVC 2019 64-bit + Qt Charts)**
+- **Visual Studio 2019**
+- **QML + C++**
+
+---
+
+## 📷 Screenshot
+
+> Here's a preview of the modified UI:
+
+![Vyorius Ground Station UI](path-to-your-screenshot.png)  
+*Modified QGroundControl interface with custom branding and logout button*
+
+> Replace `path-to-your-screenshot.png` with the actual relative path once the image is uploaded.
+
+---
+
+## 🛠
