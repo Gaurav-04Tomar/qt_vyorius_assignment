@@ -1,0 +1,2 @@
+build*/\n*.exe\n*.pdb\n*.pch\n*.ilk\n*.obj\n*.dll\n*.user\n*.log\n*.o\n*.a\n*.so
+build/
